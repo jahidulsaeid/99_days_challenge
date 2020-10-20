@@ -12,6 +12,9 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
     ]);
     setInputText("");
   };
+
+  const enabled = inputText.length > 0;
+
   const statusHandler = (e) => {
     setStatus(e.target.value);
   };
@@ -23,7 +26,12 @@ const Form = ({ inputText, setInputText, todos, setTodos, setStatus }) => {
         type="text"
         className="todo-input"
       />
-      <button onClick={submitTodoHandler} className="todo-button" type="submit">
+      <button
+        disabled={!enabled}
+        onClick={submitTodoHandler}
+        className="todo-button"
+        type="submit"
+      >
         <i className="fas fa-plus-square"></i>
       </button>
       <div className="select">

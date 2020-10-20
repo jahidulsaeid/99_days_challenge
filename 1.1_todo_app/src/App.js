@@ -48,7 +48,7 @@ function App() {
   return (
     <>
       <header>
-        <h1>Saeid Todo List</h1>
+        <h1>Daily Task List</h1>
       </header>
       <Form
         todos={todos}
