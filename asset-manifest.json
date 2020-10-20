@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/99_days_challenge/1_todo-app/static/css/main.30d69c4f.chunk.css",
-    "main.js": "/99_days_challenge/1_todo-app/static/js/main.fb0767ca.chunk.js",
-    "main.js.map": "/99_days_challenge/1_todo-app/static/js/main.fb0767ca.chunk.js.map",
-    "runtime-main.js": "/99_days_challenge/1_todo-app/static/js/runtime-main.b63a5309.js",
-    "runtime-main.js.map": "/99_days_challenge/1_todo-app/static/js/runtime-main.b63a5309.js.map",
-    "static/js/2.3df9c06f.chunk.js": "/99_days_challenge/1_todo-app/static/js/2.3df9c06f.chunk.js",
-    "static/js/2.3df9c06f.chunk.js.map": "/99_days_challenge/1_todo-app/static/js/2.3df9c06f.chunk.js.map",
-    "index.html": "/99_days_challenge/1_todo-app/index.html",
-    "precache-manifest.f76896ef78d2e60fdc4321449cf833fb.js": "/99_days_challenge/1_todo-app/precache-manifest.f76896ef78d2e60fdc4321449cf833fb.js",
-    "service-worker.js": "/99_days_challenge/1_todo-app/service-worker.js",
-    "static/css/main.30d69c4f.chunk.css.map": "/99_days_challenge/1_todo-app/static/css/main.30d69c4f.chunk.css.map",
-    "static/js/2.3df9c06f.chunk.js.LICENSE.txt": "/99_days_challenge/1_todo-app/static/js/2.3df9c06f.chunk.js.LICENSE.txt"
+    "main.css": "/99_days_challenge/1_todo_app/static/css/main.30d69c4f.chunk.css",
+    "main.js": "/99_days_challenge/1_todo_app/static/js/main.fb0767ca.chunk.js",
+    "main.js.map": "/99_days_challenge/1_todo_app/static/js/main.fb0767ca.chunk.js.map",
+    "runtime-main.js": "/99_days_challenge/1_todo_app/static/js/runtime-main.439e6a6d.js",
+    "runtime-main.js.map": "/99_days_challenge/1_todo_app/static/js/runtime-main.439e6a6d.js.map",
+    "static/js/2.3df9c06f.chunk.js": "/99_days_challenge/1_todo_app/static/js/2.3df9c06f.chunk.js",
+    "static/js/2.3df9c06f.chunk.js.map": "/99_days_challenge/1_todo_app/static/js/2.3df9c06f.chunk.js.map",
+    "index.html": "/99_days_challenge/1_todo_app/index.html",
+    "precache-manifest.23fdb72893eca0469287f3e2623673db.js": "/99_days_challenge/1_todo_app/precache-manifest.23fdb72893eca0469287f3e2623673db.js",
+    "service-worker.js": "/99_days_challenge/1_todo_app/service-worker.js",
+    "static/css/main.30d69c4f.chunk.css.map": "/99_days_challenge/1_todo_app/static/css/main.30d69c4f.chunk.css.map",
+    "static/js/2.3df9c06f.chunk.js.LICENSE.txt": "/99_days_challenge/1_todo_app/static/js/2.3df9c06f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b63a5309.js",
+    "static/js/runtime-main.439e6a6d.js",
     "static/js/2.3df9c06f.chunk.js",
     "static/css/main.30d69c4f.chunk.css",
     "static/js/main.fb0767ca.chunk.js"
